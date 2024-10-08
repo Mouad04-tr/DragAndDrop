@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custom_interface>
+  <custom_widget widget_type="GtkButton" position_x="443" position_y="418"/>
+  <custom_widget widget_type="GtkEventBox" position_x="331" position_y="198"/>
+  <custom_widget widget_type="GtkEntry" position_x="131" position_y="216" custom_text=""/>
+  <custom_widget widget_type="GtkListBox" position_x="296" position_y="49"/>
+  <custom_widget widget_type="GtkEventBox" position_x="67" position_y="333"/>
+  <custom_widget widget_type="GtkEntry" position_x="384" position_y="302" custom_text=""/>
+  <custom_widget widget_type="GtkRadioButton" position_x="138" position_y="134"/>
+  <custom_widget widget_type="GtkEventBox" position_x="10" position_y="60"/>
+  <custom_widget widget_type="GtkScale" position_x="219" position_y="35" custom_scale_value="0,000000"/>
+  <custom_widget widget_type="GtkProgressBar" position_x="100" position_y="300" custom_progress_value="0,500000"/>
+  <custom_widget widget_type="GtkCheckButton" position_x="26" position_y="183"/>
+  <custom_widget widget_type="GtkButton" position_x="462" position_y="114"/>
+  <custom_widget widget_type="GtkEntry" position_x="213" position_y="151" custom_text=""/>
+  <custom_widget widget_type="GtkRadioButton" position_x="295" position_y="391"/>
+</custom_interface>
